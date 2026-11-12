@@ -1,3 +1,5 @@
+**Demo video:** https://youtu.be/wsxiyK4lJV8
+
 # AI Lead Qualifier (n8n workflow)
 
 An n8n workflow that receives inbound leads, scores them with AI, and routes them as **hot**, **warm** or **cold**, with a ready-to-send reply for each one. Duplicate webhook events are detected and never sent to the AI twice.
